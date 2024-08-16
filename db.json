@@ -1,0 +1,10 @@
+{
+    "users": [
+      { "id": 1, "name": "Anas", "email": "anas@gmail.com", "password": "123123" },
+      { "id": 2, "name": "Anas", "email": "anas@gmail.com", "password": "123123" },
+      { "id": 3, "name": "Anas", "email": "anas@gmail.com", "password": "123123" },
+      { "id": 4, "name": "Anas", "email": "anas@gmail.com", "password": "123123" }
+   
+    ]
+  }
+  
